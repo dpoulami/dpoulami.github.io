@@ -2,8 +2,8 @@
 <title>{{ site.title }} {% if page.title %} &#8211; {{ page.title }} {% endif %}</title>
 <meta name="description" content="{{ page.description }}">
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">
-{% if site.owner.twitter %}<!-- Twitter Cards -->
-	{% if page.image.feature %}
+<!-- {% if site.owner.twitter %} Twitter Cards -->
+<!-- 	{% if page.image.feature %}
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:image" content=
 			{% if page.image.feature contains 'http://' %}
@@ -39,8 +39,8 @@
 	<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 	<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 	<meta name="twitter:creator" content="@{{ site.owner.twitter }}">
-{% endif %}
-
+{% endif %} -->
+ 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
