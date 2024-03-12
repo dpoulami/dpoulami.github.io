@@ -1,27 +1,27 @@
-title:            Jordi Pont-Tuset's site
+title:            Poulami Das' site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //poulamid.github.io
+url:              //dpoulami.github.io
 #http://localhost:5000
-#https://jponttuset.github.io
-disqus_shortname: jponttuset
+#https://dpoulami.github.io
+disqus_shortname: dpoulami
 
 # Owner/author information
 owner:
-  name:           Jordi Pont-Tuset
-  avatar:         jordi.png
-  bio:            I'm from a small town near Girona, Catalunya. Currently in Zürich, Switzerland. Passionate about computer vision, technology, running, and mountains.
-  email:          jponttuset@gmail.com
+  name:           Poulami Das
+  avatar:         poulami.png
+  bio:            I come from Kolkata, India, known as the "city of joy". I am currently living in the beautiful green city of Saarbruecken, Germany.
+  email:          poulamidas22@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: jponttuset
-  linkedin: jponttuset
-  google_scholar: VCBBx24AAAAJ
-  google_plus: 113718226018314522413
-  github: jponttuset
+  # twitter: 
+  linkedin: https://www.linkedin.com/in/poulami-das-71330348/
+  google_scholar: https://scholar.google.co.in/citations?user=4yAc8bgAAAAJ&hl=en
+  # google_plus: 
+  # github: 
 # Analytics and webmaster tools stuff goes here
-google_verify:
+# google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+
 
 # Links to include in top navigation
 # For external links add external: true
@@ -30,13 +30,13 @@ links:
     url: /cv/
   - title: Publications
     url: /publications/
-  - title: Code
-    url: /code/
-  - title: Blog
-    url: /blog/
+  # - title: Code
+  #   url: /code/
+  # - title: Blog
+  #   url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Zurich
+timezone:    Europe/Berlin
 future:      true
 #pygments:    true
 highlighter: rouge
