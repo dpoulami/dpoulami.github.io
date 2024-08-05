@@ -8,7 +8,7 @@ image:
 ---
 
 <!-- I am a research scientist at <a href="https://research.google.com" target="_blank">Google Research</a>. -->
-Since 2023, I am a postdoctoral researcher at <a href="https://cispa.de" target="_blank">CISPA Helmholtz Institute for Information Security, hosted by Julian Loss.</a>.
+Since 2023, I am a postdoctoral researcher at <a href="https://cispa.de" target="_blank">CISPA Helmholtz Institute for Information Security</a>, hosted by <a href="https://julianloss.com" target="_blank"> Julian Loss. </a>
 
 <!-- <br />
 Previously, I worked at <a href="http://www.vision.ee.ethz.ch/index.en.html" target="_blank">ETHZ</a>
